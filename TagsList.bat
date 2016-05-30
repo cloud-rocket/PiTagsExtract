@@ -1,0 +1,1 @@
+c:\Progra~1\PI\adm\piconfig < "tagslist.params" > out\tags.list
